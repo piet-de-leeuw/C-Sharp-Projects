@@ -1,0 +1,7 @@
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Qualify_For_Car_Insurance\Qualify_For_Car_Insurance\bin\Debug\Qualify_For_Car_Insurance.exe.config
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Qualify_For_Car_Insurance\Qualify_For_Car_Insurance\bin\Debug\Qualify_For_Car_Insurance.exe
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Qualify_For_Car_Insurance\Qualify_For_Car_Insurance\bin\Debug\Qualify_For_Car_Insurance.pdb
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Qualify_For_Car_Insurance\Qualify_For_Car_Insurance\obj\Debug\Qualify_For_Car_Insurance.csproj.AssemblyReference.cache
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Qualify_For_Car_Insurance\Qualify_For_Car_Insurance\obj\Debug\Qualify_For_Car_Insurance.csproj.CoreCompileInputs.cache
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Qualify_For_Car_Insurance\Qualify_For_Car_Insurance\obj\Debug\Qualify_For_Car_Insurance.exe
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Qualify_For_Car_Insurance\Qualify_For_Car_Insurance\obj\Debug\Qualify_For_Car_Insurance.pdb
