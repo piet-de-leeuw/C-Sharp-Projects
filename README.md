@@ -3,7 +3,8 @@ Here you find my C-Sharp projects from The Tech Academy game developer bootcamp
 
 ## Projects
 [Basic_C#_Programs](#basic_c_programs)
-- [DailyReport](url)
+- [DailyReport](#dailyreport)
+- [Math_Application](#math_application)
 
 ## Basic_C#_Programs
 In the Basic_C#_Project folder you find some simple console apps I made:
@@ -13,3 +14,7 @@ In the Basic_C#_Project folder you find some simple console apps I made:
 A simple console app that asks a few questions for students of The Tech Academy to give a daily report.
 It prints the questions in the console. gets the input from the user and stores the answer as a corresponding data-type.
 
+### Math_Application
+This is a simple app using math operators.
+
+###
