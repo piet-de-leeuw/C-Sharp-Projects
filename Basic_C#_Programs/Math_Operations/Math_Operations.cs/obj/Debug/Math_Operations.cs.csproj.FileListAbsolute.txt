@@ -1,0 +1,7 @@
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Math_Operations\Math_Operations.cs\bin\Debug\Math_Operations.cs.exe.config
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Math_Operations\Math_Operations.cs\bin\Debug\Math_Operations.cs.exe
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Math_Operations\Math_Operations.cs\bin\Debug\Math_Operations.cs.pdb
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Math_Operations\Math_Operations.cs\obj\Debug\Math_Operations.cs.csproj.AssemblyReference.cache
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Math_Operations\Math_Operations.cs\obj\Debug\Math_Operations.cs.csproj.CoreCompileInputs.cache
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Math_Operations\Math_Operations.cs\obj\Debug\Math_Operations.cs.exe
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Math_Operations\Math_Operations.cs\obj\Debug\Math_Operations.cs.pdb

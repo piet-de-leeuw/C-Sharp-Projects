@@ -1,0 +1,7 @@
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Math_Application\Math_Application\bin\Debug\Math_Application.exe.config
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Math_Application\Math_Application\bin\Debug\Math_Application.exe
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Math_Application\Math_Application\bin\Debug\Math_Application.pdb
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Math_Application\Math_Application\obj\Debug\Math_Application.csproj.AssemblyReference.cache
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Math_Application\Math_Application\obj\Debug\Math_Application.csproj.CoreCompileInputs.cache
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Math_Application\Math_Application\obj\Debug\Math_Application.exe
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Math_Application\Math_Application\obj\Debug\Math_Application.pdb
