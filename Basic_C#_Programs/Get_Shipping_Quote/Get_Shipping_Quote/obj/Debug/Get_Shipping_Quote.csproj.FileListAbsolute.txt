@@ -1,0 +1,7 @@
+C:\Users\pietd\source\repos\Get_Shipping_Quote\Get_Shipping_Quote\bin\Debug\Get_Shipping_Quote.exe.config
+C:\Users\pietd\source\repos\Get_Shipping_Quote\Get_Shipping_Quote\bin\Debug\Get_Shipping_Quote.exe
+C:\Users\pietd\source\repos\Get_Shipping_Quote\Get_Shipping_Quote\bin\Debug\Get_Shipping_Quote.pdb
+C:\Users\pietd\source\repos\Get_Shipping_Quote\Get_Shipping_Quote\obj\Debug\Get_Shipping_Quote.csproj.AssemblyReference.cache
+C:\Users\pietd\source\repos\Get_Shipping_Quote\Get_Shipping_Quote\obj\Debug\Get_Shipping_Quote.csproj.CoreCompileInputs.cache
+C:\Users\pietd\source\repos\Get_Shipping_Quote\Get_Shipping_Quote\obj\Debug\Get_Shipping_Quote.exe
+C:\Users\pietd\source\repos\Get_Shipping_Quote\Get_Shipping_Quote\obj\Debug\Get_Shipping_Quote.pdb
