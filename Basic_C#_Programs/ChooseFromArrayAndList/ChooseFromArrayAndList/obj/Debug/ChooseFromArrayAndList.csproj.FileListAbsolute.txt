@@ -1,0 +1,7 @@
+C:\Users\pietd\Documents\myRepository\tech accademy\Basic_C#_Programs\ChooseFromArrayAndList\ChooseFromArrayAndList\obj\Debug\ChooseFromArrayAndList.csproj.AssemblyReference.cache
+C:\Users\pietd\Documents\myRepository\tech accademy\Basic_C#_Programs\ChooseFromArrayAndList\ChooseFromArrayAndList\obj\Debug\ChooseFromArrayAndList.csproj.CoreCompileInputs.cache
+C:\Users\pietd\Documents\myRepository\tech accademy\Basic_C#_Programs\ChooseFromArrayAndList\ChooseFromArrayAndList\bin\Debug\ChooseFromArrayAndList.exe.config
+C:\Users\pietd\Documents\myRepository\tech accademy\Basic_C#_Programs\ChooseFromArrayAndList\ChooseFromArrayAndList\bin\Debug\ChooseFromArrayAndList.exe
+C:\Users\pietd\Documents\myRepository\tech accademy\Basic_C#_Programs\ChooseFromArrayAndList\ChooseFromArrayAndList\bin\Debug\ChooseFromArrayAndList.pdb
+C:\Users\pietd\Documents\myRepository\tech accademy\Basic_C#_Programs\ChooseFromArrayAndList\ChooseFromArrayAndList\obj\Debug\ChooseFromArrayAndList.exe
+C:\Users\pietd\Documents\myRepository\tech accademy\Basic_C#_Programs\ChooseFromArrayAndList\ChooseFromArrayAndList\obj\Debug\ChooseFromArrayAndList.pdb
