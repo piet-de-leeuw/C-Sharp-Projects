@@ -37,4 +37,4 @@ This is a simple app using math operators.
 This app lets you choose from the index of an srtin array, int array and a string list and returns the values on that index.
 
 ### Arrays_Lists
-In this exsercise I used arrays and loops to search throug arrays. Add and append strings in arrays, search for double words in arrays ect.
+In this exsercise I used arrays and loops to search throug arrays. Add and append strings in arrays, search for double words in arrays, ect.
