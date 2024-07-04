@@ -1,0 +1,7 @@
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Arrays_Lists\Arrays_Lists\bin\Debug\Arrays_Lists.exe.config
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Arrays_Lists\Arrays_Lists\bin\Debug\Arrays_Lists.exe
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Arrays_Lists\Arrays_Lists\bin\Debug\Arrays_Lists.pdb
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Arrays_Lists\Arrays_Lists\obj\Debug\Arrays_Lists.csproj.AssemblyReference.cache
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Arrays_Lists\Arrays_Lists\obj\Debug\Arrays_Lists.csproj.CoreCompileInputs.cache
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Arrays_Lists\Arrays_Lists\obj\Debug\Arrays_Lists.exe
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Arrays_Lists\Arrays_Lists\obj\Debug\Arrays_Lists.pdb
