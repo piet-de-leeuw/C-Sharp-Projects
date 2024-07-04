@@ -3,10 +3,11 @@ Here you find my C-Sharp projects from The Tech Academy game developer bootcamp
 
 ## Projects
 [Basic_C#_Programs](#basic_c_programs)
-- [DailyReport](#dailyreport)
+- [DailyReport](#daily-report)
 - [Anonymous_Income_Comprison_Program](#anonymous_income_comprison_program)
 - [Qualify_For_Car_Insurance](#qualify_for_car_insurance)
 - [Math_Application](#math_application)
+- [Get_Shipping_Quote](#get_shipping_quote)
 
 
 ## Basic_C#_Programs
@@ -23,6 +24,9 @@ It uses user input, math operations and type casting to do so.
 
 ### Qualify_For_Car_Insurance
 This is an app that checks if you qualify for a car insurance. ist uses boolean logic.
+
+### Get_Shipping_Quote
+This app calculates the schipping price for packages and decides if a package is to big. It use if else statements to do so.
 
 ### Math_Application
 This is a simple app using math operators.
