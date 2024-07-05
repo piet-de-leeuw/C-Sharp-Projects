@@ -1,0 +1,7 @@
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Functions_Math\Functions_Math\bin\Debug\Functions_Math.exe.config
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Functions_Math\Functions_Math\bin\Debug\Functions_Math.exe
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Functions_Math\Functions_Math\bin\Debug\Functions_Math.pdb
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Functions_Math\Functions_Math\obj\Debug\Functions_Math.csproj.AssemblyReference.cache
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Functions_Math\Functions_Math\obj\Debug\Functions_Math.csproj.CoreCompileInputs.cache
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Functions_Math\Functions_Math\obj\Debug\Functions_Math.exe
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Functions_Math\Functions_Math\obj\Debug\Functions_Math.pdb
