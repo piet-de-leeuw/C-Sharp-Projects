@@ -3,6 +3,7 @@ Here you find my C-Sharp projects from The Tech Academy game developer bootcamp
 
 ## Projects
 [Basic_C#_Programs](#basic_c_programs)
+- [Functions_Math](#functions_math)
 - [DailyReport](#daily-report)
 - [Anonymous_Income_Comprison_Program](#anonymous_income_comprison_program)
 - [Qualify_For_Car_Insurance](#qualify_for_car_insurance)
@@ -11,6 +12,9 @@ Here you find my C-Sharp projects from The Tech Academy game developer bootcamp
 - [ChooseFromArrayAndList](#choosefromarrayandlist)
 - [Arrays_Lists](#arrays_lists)
 
+## Functions_Math
+In this project I Created 3 functions in a seperated class (Called My_Function), that perform math operations.
+In the main function of program.cs I call the functions to modify the inputed number. 
 
 ## Basic_C#_Programs
 In the Basic_C#_Project folder you find some simple console apps I made:
