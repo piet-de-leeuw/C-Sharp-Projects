@@ -9,6 +9,7 @@ Here you find my C-Sharp projects from The Tech Academy game developer bootcamp
 - [Get_Shipping_Quote](#get_shipping_quote)
 - [Math_Application](#math_application)
 - [ChooseFromArrayAndList](#choosefromarrayandlist)
+- [Arrays_Lists](#arrays_lists)
 
 
 ## Basic_C#_Programs
@@ -35,4 +36,5 @@ This is a simple app using math operators.
 ### ChooseFromArrayAndList
 This app lets you choose from the index of an srtin array, int array and a string list and returns the values on that index.
 
-
+### Arrays_Lists
+In this exsercise I used arrays and loops to search throug arrays. Add and append strings in arrays, search for double words in arrays, ect.
