@@ -1,7 +1,0 @@
-C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ExeptionHandeling\ExeptionHandeling\bin\Debug\ExeptionHandeling.exe.config
-C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ExeptionHandeling\ExeptionHandeling\bin\Debug\ExeptionHandeling.exe
-C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ExeptionHandeling\ExeptionHandeling\bin\Debug\ExeptionHandeling.pdb
-C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ExeptionHandeling\ExeptionHandeling\obj\Debug\ExeptionHandeling.csproj.AssemblyReference.cache
-C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ExeptionHandeling\ExeptionHandeling\obj\Debug\ExeptionHandeling.csproj.CoreCompileInputs.cache
-C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ExeptionHandeling\ExeptionHandeling\obj\Debug\ExeptionHandeling.exe
-C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ExeptionHandeling\ExeptionHandeling\obj\Debug\ExeptionHandeling.pdb
