@@ -3,6 +3,7 @@ Here you find my C-Sharp projects from The Tech Academy game developer bootcamp
 
 ## Projects
 [Basic_C#_Programs](#basic_c_programs)
+- [FunctionOverload](#functionoverload)
 - [Functions_Math](#functions_math)
 - [DailyReport](#daily-report)
 - [Anonymous_Income_Comprison_Program](#anonymous_income_comprison_program)
@@ -16,6 +17,12 @@ Here you find my C-Sharp projects from The Tech Academy game developer bootcamp
 ## Basic_C#_Programs
 In the Basic_C#_Project folder you find some simple console apps I made:
 (The files named program.cs are the actual code I wrote, the other code is aoutomaticly added by Visual Studio.)
+
+### FunctionOverload
+In this Project I created multiple overloades from a function it can take in Intergers, decimals and string values.
+I creaded the functions in a seperate class (called MathOverloades) and call them in the Main function from program.cs.
+
+I updated the project with a function with an optional parameter.
 
 ### Functions_Math
 In this project I Created 3 functions in a seperated class (Called My_Function), that perform math operations.
