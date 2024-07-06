@@ -1,0 +1,7 @@
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Method_exercise\Method_exercise\bin\Debug\Method_exercise.exe.config
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Method_exercise\Method_exercise\bin\Debug\Method_exercise.exe
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Method_exercise\Method_exercise\bin\Debug\Method_exercise.pdb
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Method_exercise\Method_exercise\obj\Debug\Method_exercise.csproj.AssemblyReference.cache
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Method_exercise\Method_exercise\obj\Debug\Method_exercise.csproj.CoreCompileInputs.cache
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Method_exercise\Method_exercise\obj\Debug\Method_exercise.exe
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Method_exercise\Method_exercise\obj\Debug\Method_exercise.pdb
