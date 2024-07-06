@@ -2,7 +2,9 @@
 Here you find my C-Sharp projects from The Tech Academy game developer bootcamp
 
 ## Projects
-[Basic_C#_Programs](#basic_c_programs)
+#### [BLACKJACK_application](#blackjack_application)
+- [BLACKJACK_application](#blackjack_application)
+#### [Basic_C#_Programs](#basic_c_programs)
 - [FunctionOverload](#functionoverload)
 - [Functions_Math](#functions_math)
 - [DailyReport](#daily-report)
@@ -13,6 +15,8 @@ Here you find my C-Sharp projects from The Tech Academy game developer bootcamp
 - [ChooseFromArrayAndList](#choosefromarrayandlist)
 - [Arrays_Lists](#arrays_lists)
 
+## BLACKJACK_application
+This is a project I am working on. making a Black Jack Game.
 
 ## Basic_C#_Programs
 In the Basic_C#_Project folder you find some simple console apps I made:
