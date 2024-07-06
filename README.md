@@ -5,6 +5,7 @@ Here you find my C-Sharp projects from The Tech Academy game developer bootcamp
 #### [BLACKJACK_application](#blackjack_application)
 - [BLACKJACK_application](#blackjack_application)
 #### [Basic_C#_Programs](#basic_c_programs)
+- [Method_exercise](#method_exercise)
 - [FunctionOverload](#functionoverload)
 - [Functions_Math](#functions_math)
 - [DailyReport](#daily-report)
@@ -21,6 +22,9 @@ This is a project I am working on. making a Black Jack Game.
 ## Basic_C#_Programs
 In the Basic_C#_Project folder you find some simple console apps I made:
 (The files named program.cs are the actual code I wrote, the other code is aoutomaticly added by Visual Studio.)
+
+### Method_exercise
+In this project I did some exercises with methods in the program.cs class and in a seperated class.
 
 ### FunctionOverload
 In this Project I created multiple overloades from a function it can take in Intergers, decimals and string values.
