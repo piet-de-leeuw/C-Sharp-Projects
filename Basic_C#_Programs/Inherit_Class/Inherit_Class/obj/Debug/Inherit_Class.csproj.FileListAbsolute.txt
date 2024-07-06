@@ -1,0 +1,7 @@
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Inherit_Class\Inherit_Class\bin\Debug\Inherit_Class.exe.config
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Inherit_Class\Inherit_Class\bin\Debug\Inherit_Class.exe
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Inherit_Class\Inherit_Class\bin\Debug\Inherit_Class.pdb
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Inherit_Class\Inherit_Class\obj\Debug\Inherit_Class.csproj.AssemblyReference.cache
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Inherit_Class\Inherit_Class\obj\Debug\Inherit_Class.csproj.CoreCompileInputs.cache
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Inherit_Class\Inherit_Class\obj\Debug\Inherit_Class.exe
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Inherit_Class\Inherit_Class\obj\Debug\Inherit_Class.pdb
