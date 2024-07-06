@@ -26,6 +26,26 @@ namespace FunctionOverload
             numInt = overloads.Plus("200");
             Console.WriteLine(numInt);
 
+            //Using function with an optional paramether. Using Optional 1
+            Console.WriteLine("Please enter a number");
+            int numOne, numTwo;
+            int result;
+            if (!int.TryParse(Console.ReadLine(), out numOne))
+            {
+                throw new ArgumentException("No valid value");
+            }
+            Console.WriteLine("Please enter a number -- Optional");
+            if(int.TryParse(Console.ReadLine(), out numTwo))
+            {
+                result = overloads.Subtract(numOne, numTwo);
+            }
+            else
+            {
+                result = overloads.Subtract(numOne);
+            }
+            numInt = overloads.Subtract(numOne, numTwo);
+            Console.WriteLine(result);
+
 
             Console.ReadLine();
         }

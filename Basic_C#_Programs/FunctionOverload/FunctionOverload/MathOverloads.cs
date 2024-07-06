@@ -43,6 +43,13 @@ namespace FunctionOverload
 
         }
 
+        //Optional 1
+        public int Subtract(int value, int SubstractAmount = 10)
+        {
+            value -= SubstractAmount;
+            return value;
+        }
+
 
     }
 }
