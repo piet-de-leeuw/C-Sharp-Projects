@@ -6,11 +6,17 @@ using System.Threading.Tasks;
 
 namespace BLACKJACK_application
 {
-    public class TwentyOneGame : Game
+    public class BlackJackGame : Game
     {
-        public void Play()
+        public override void Play()
         {
             throw new NotImplementedException();
+        }
+
+        public override void ListPlayers()
+        {
+            Console.WriteLine("Black Jack players:");
+            base.ListPlayers();
         }
 
     }
