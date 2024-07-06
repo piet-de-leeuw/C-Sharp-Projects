@@ -22,6 +22,8 @@ In the Basic_C#_Project folder you find some simple console apps I made:
 In this Project I created multiple overloades from a function it can take in Intergers, decimals and string values.
 I creaded the functions in a seperate class (called MathOverloades) and call them in the Main function from program.cs.
 
+I updated the project with a function with an optional parameter.
+
 ### Functions_Math
 In this project I Created 3 functions in a seperated class (Called My_Function), that perform math operations.
 In the main function of program.cs I call the functions to modify the inputed number. 
