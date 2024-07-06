@@ -1,0 +1,7 @@
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\BLACKJACK_application\BLACKJACK_application\bin\Debug\BLACKJACK_application.exe.config
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\BLACKJACK_application\BLACKJACK_application\bin\Debug\BLACKJACK_application.exe
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\BLACKJACK_application\BLACKJACK_application\bin\Debug\BLACKJACK_application.pdb
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\BLACKJACK_application\BLACKJACK_application\obj\Debug\BLACKJACK_application.csproj.AssemblyReference.cache
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\BLACKJACK_application\BLACKJACK_application\obj\Debug\BLACKJACK_application.csproj.CoreCompileInputs.cache
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\BLACKJACK_application\BLACKJACK_application\obj\Debug\BLACKJACK_application.exe
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\BLACKJACK_application\BLACKJACK_application\obj\Debug\BLACKJACK_application.pdb
