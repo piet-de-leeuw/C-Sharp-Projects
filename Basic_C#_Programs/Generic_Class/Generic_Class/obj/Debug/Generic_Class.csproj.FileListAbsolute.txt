@@ -1,0 +1,7 @@
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Generic_Class\Generic_Class\bin\Debug\Generic_Class.exe.config
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Generic_Class\Generic_Class\bin\Debug\Generic_Class.exe
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Generic_Class\Generic_Class\bin\Debug\Generic_Class.pdb
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Generic_Class\Generic_Class\obj\Debug\Generic_Class.csproj.AssemblyReference.cache
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Generic_Class\Generic_Class\obj\Debug\Generic_Class.csproj.CoreCompileInputs.cache
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Generic_Class\Generic_Class\obj\Debug\Generic_Class.exe
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Generic_Class\Generic_Class\obj\Debug\Generic_Class.pdb
