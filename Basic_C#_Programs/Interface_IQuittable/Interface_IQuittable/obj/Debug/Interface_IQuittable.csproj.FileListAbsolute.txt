@@ -1,0 +1,7 @@
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Interface_IQuittable\Interface_IQuittable\bin\Debug\Interface_IQuittable.exe.config
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Interface_IQuittable\Interface_IQuittable\bin\Debug\Interface_IQuittable.exe
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Interface_IQuittable\Interface_IQuittable\bin\Debug\Interface_IQuittable.pdb
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Interface_IQuittable\Interface_IQuittable\obj\Debug\Interface_IQuittable.csproj.AssemblyReference.cache
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Interface_IQuittable\Interface_IQuittable\obj\Debug\Interface_IQuittable.csproj.CoreCompileInputs.cache
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Interface_IQuittable\Interface_IQuittable\obj\Debug\Interface_IQuittable.exe
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Interface_IQuittable\Interface_IQuittable\obj\Debug\Interface_IQuittable.pdb
