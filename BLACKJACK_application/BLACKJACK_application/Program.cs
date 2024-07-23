@@ -10,13 +10,6 @@ namespace BLACKJACK_application
     {
         static void Main(string[] args)
         {
-            Game game = new BlackJackGame();
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "James";
-
-            game += player;
-            game -= player;
 
 
             Deck deck = new Deck();
