@@ -1,0 +1,7 @@
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ParseEnums\ParseEnums\bin\Debug\ParseEnums.exe.config
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ParseEnums\ParseEnums\bin\Debug\ParseEnums.exe
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ParseEnums\ParseEnums\bin\Debug\ParseEnums.pdb
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ParseEnums\ParseEnums\obj\Debug\ParseEnums.csproj.AssemblyReference.cache
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ParseEnums\ParseEnums\obj\Debug\ParseEnums.csproj.CoreCompileInputs.cache
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ParseEnums\ParseEnums\obj\Debug\ParseEnums.exe
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ParseEnums\ParseEnums\obj\Debug\ParseEnums.pdb
