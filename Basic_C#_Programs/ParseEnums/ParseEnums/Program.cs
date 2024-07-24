@@ -10,6 +10,7 @@ namespace ParseEnums
     {
         static void Main(string[] args)
         {
+
             try
             {
                 Console.WriteLine("Please entter the currend week day...");

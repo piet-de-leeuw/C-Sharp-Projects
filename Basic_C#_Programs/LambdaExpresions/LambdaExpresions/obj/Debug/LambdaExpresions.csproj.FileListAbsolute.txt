@@ -1,0 +1,7 @@
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\LambdaExpresions\LambdaExpresions\bin\Debug\LambdaExpresions.exe.config
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\LambdaExpresions\LambdaExpresions\bin\Debug\LambdaExpresions.exe
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\LambdaExpresions\LambdaExpresions\bin\Debug\LambdaExpresions.pdb
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\LambdaExpresions\LambdaExpresions\obj\Debug\LambdaExpresions.csproj.AssemblyReference.cache
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\LambdaExpresions\LambdaExpresions\obj\Debug\LambdaExpresions.csproj.CoreCompileInputs.cache
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\LambdaExpresions\LambdaExpresions\obj\Debug\LambdaExpresions.exe
+C:\Users\pietd\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\LambdaExpresions\LambdaExpresions\obj\Debug\LambdaExpresions.pdb
