@@ -21,6 +21,7 @@ namespace BLACKJACK_application
             Dealer.Hand = new List<Card>();
             Dealer.Stay = false;
             Dealer.Deck = new Deck();
+            Dealer.Deck.Shuffle();
             Console.WriteLine("Place your bet!");
 
             foreach(Player player in Players)
@@ -61,7 +62,9 @@ namespace BLACKJACK_application
                         foreach (KeyValuePair<Player, int> entry in Bets)
                         {
                             Dealer.Balance += entry.Value;
+                            
                         }
+                        return;
                     }
                 }
             }
@@ -72,7 +75,7 @@ namespace BLACKJACK_application
                     Console.Write("Your cards are: ");
                     foreach(Card card in player.Hand)
                     {
-                        Console.WriteLine("{0} ", card.ToString());
+                        Console.Write("{0} ", card.ToString());
                     }
                     Console.WriteLine("\n\nHit or Stay?");
                     string answer = Console.ReadLine().ToLower();
@@ -100,10 +103,12 @@ namespace BLACKJACK_application
                         if (answer == "yes" || answer == "yeah")
                         {
                             player.isActivleyPlaying = true;
+                            return;
                         }
                         else
                         {
                             player.isActivleyPlaying = false;
+                            return;
                         }
                     }
                 }
@@ -116,7 +121,6 @@ namespace BLACKJACK_application
                 Dealer.Deal(Dealer.Hand);
                 Dealer.isBusted = BlackJackRules.IsBusted(Dealer.Hand);
                 Dealer.Stay = BlackJackRules.shouldDealerStay(Dealer.Hand);
-
             }
             if (Dealer.Stay)
             {
