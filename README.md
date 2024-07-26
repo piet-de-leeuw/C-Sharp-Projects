@@ -5,7 +5,11 @@ Here you find my C-Sharp projects from The Tech Academy game developer bootcamp
 #### [BLACKJACK_application](#blackjack_application)
 - [BLACKJACK_application](#blackjack_application)
 #### [Basic_C#_Programs](#basic_c_programs)
+- [OperatorOverload](#operatoroverload)
+- [LambdaExpresions](#lambdaexpresions)
+- [Interface_IQuittable](#interface_iquittable)
 - [Generic_Class](#generic_class)
+- [ParseEnums](#parseenums)
 - [ExceptionHandeling](#exceptionhandeling)
 - [Inherit_Class](#inherit_class)
 - [Method_exercise](#method_exercise)
@@ -24,11 +28,22 @@ This is a project I am working on. making a Black Jack Game.
 
 ## Basic_C#_Programs
 In the Basic_C#_Project folder you find some simple console apps I made:
-(The files named program.cs are the actual code I wrote, the other code is aoutomaticly added by Visual Studio.)
+(The files named program.cs are the actual code I wrote, the other code is aoutomaticly added by Visual Studio.
+
+### OperatorOverload
+In this project I use opreator overloads to make it eassy to compare employees by id whit the == opperator. 
+
+### LambdaExpresions
+In this exercice I use Lamba expresions to Query a list.
+
+### Interface_IQuittable
+this project Implements and uses an interface. I also use polimorphism to morph a class into a Interface it inherits from.
 
 ### Generic_Class
 Implemented an app that parses user input to a enum DayOfTheWeek
 
+### ParseEnums
+In this project I use convertion to parse user input to an enum. 
 
 ### ExceptionHandeling
 In this project I use try and catchblocks to Handle exeption.
