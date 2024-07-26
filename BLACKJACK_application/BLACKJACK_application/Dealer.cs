@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 namespace BLACKJACK_application
 {
     public class Dealer
-    {
+    { 
+
         public string Name { get; set; }
         public Deck Deck { get; set; }
         public int Balance { get; set; }
