@@ -5,6 +5,7 @@ Here you find my C-Sharp projects from The Tech Academy game developer bootcamp
 #### [BLACKJACK_application](#blackjack_application)
 - [BLACKJACK_application](#blackjack_application)
 #### [Basic_C#_Programs](#basic_c_programs)
+- [ExceptionHandeling](#exceptionhandeling)
 - [Inherit_Class](#inherit_class)
 - [Method_exercise](#method_exercise)
 - [FunctionOverload](#functionoverload)
@@ -23,6 +24,9 @@ This is a project I am working on. making a Black Jack Game.
 ## Basic_C#_Programs
 In the Basic_C#_Project folder you find some simple console apps I made:
 (The files named program.cs are the actual code I wrote, the other code is aoutomaticly added by Visual Studio.)
+
+### ExceptionHandeling
+In this project I use try and catchblocks to Handle exeption.
 
 ### Inherit_Class
 In this project I made multiple classes and let one inherit from the other.  
