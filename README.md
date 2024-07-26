@@ -27,6 +27,8 @@ In the Basic_C#_Project folder you find some simple console apps I made:
 (The files named program.cs are the actual code I wrote, the other code is aoutomaticly added by Visual Studio.)
 
 ### Generic_Class
+Implemented an app that parses user input to a enum DayOfTheWeek
+
 
 ### ExceptionHandeling
 In this project I use try and catchblocks to Handle exeption.
