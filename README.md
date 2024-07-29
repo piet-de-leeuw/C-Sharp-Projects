@@ -24,7 +24,7 @@ Here you find my C-Sharp projects from The Tech Academy game developer bootcamp
 - [Arrays_Lists](#arrays_lists)
 
 ## BLACKJACK_application
-This Project is a BlackJack Console Game. It impelment most of the techniques in the Bacic C# projects.
+This Project is a BlackJack Console Game. It impelments most of the techniques in the Bacic C# projects.
 
 ## Basic_C#_Programs
 In the Basic_C#_Project folder you find some simple console apps I made:
