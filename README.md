@@ -31,7 +31,7 @@ In the Basic_C#_Project folder you find some simple console apps I made:
 (The files named program.cs are the actual code I wrote, the other code is aoutomaticly added by Visual Studio.
 
 ### OperatorOverload
-In this project I use opreator overloads to make it eassy to compare employees by id whit the == opperator. 
+In this project I use opreator overloads to make it eassy to compare employees by id with the == opperator. 
 
 ### LambdaExpresions
 In this exercice I use Lamba expresions to Query a list.
