@@ -56,11 +56,11 @@ In this project I use try and catchblocks to Handle exeption.
 
 ### Inherit_Class
 In this project I made multiple classes and let one inherit from the other.  
-<br>*[source code](url)*
+<br>*[source code](Basic_C#_Programs/Inherit_Class)*
 
 ### Method_exercise
 In this project I did some exercises with methods in the program.cs class and in a seperated class.
-<br>*[source code](Basic_C#_Programs/Inherit_Class)*
+<br>*[source code](Basic_C#_Programs/Method_exercise/Method_exercise)*
 
 ### FunctionOverload
 In this Project I created multiple overloades from a function it can take in Intergers, decimals and string values.
