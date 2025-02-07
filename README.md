@@ -32,7 +32,7 @@ This Project is a BlackJack Console Game. It impelments most of the techniques i
 ## WPF_Applications
 
 ### WPF_Exercise
-This is an exercise where I build a small todo list app. It has a simple GUI and Add and remove functionality.
+This is an exercise where I build a small todo list app with xaml and C#. It has a simple GUI and Add and remove functionality.
 <br>*[source code](WPF_Applications/WPFExercise/WPFExercise)*
 
 ## Basic_C#_Programs
