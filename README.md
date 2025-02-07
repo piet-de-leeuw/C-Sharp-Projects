@@ -4,6 +4,8 @@ Here you find my C-Sharp projects from The Tech Academy game developer bootcamp
 ## Projects
 #### [BLACKJACK_application](#blackjack_application)
 - [BLACKJACK_application](#blackjack_application)
+#### [WPF_Applications](#wpf_applications)
+- [WPF_Exercise](#wpf_exercise)
 #### [Basic_C#_Programs](#basic_c_programs)
 - [OperatorOverload](#operatoroverload)
 - [LambdaExpresions](#lambdaexpresions)
@@ -26,6 +28,11 @@ Here you find my C-Sharp projects from The Tech Academy game developer bootcamp
 ## BLACKJACK_application
 This Project is a BlackJack Console Game. It impelments most of the techniques in the Bacic C# projects.
 <br>*[source code](BLACKJACK_application/BLACKJACK_application)*
+
+## WPF_Applications
+
+### WPF_Exercise
+This is an exercise where I build a small todo list app. It has a simple GUI and Add and remove functionality.
 
 ## Basic_C#_Programs
 In the Basic_C#_Project folder you find some simple console apps I made:
